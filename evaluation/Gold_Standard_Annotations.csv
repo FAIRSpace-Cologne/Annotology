@@ -1,0 +1,15 @@
+title,description,termURI
+Assay Type,Type of assay performed.,http://purl.obolibrary.org/obo/NCIT_C189101
+Name,Human-readable name,http://edamontology.org/data_2099
+Affiliation,An associated entity,http://purl.obolibrary.org/obo/NCIT_C25412
+Start Date,Start date of the Investigation (YYYY-MM-DD).,http://purl.obolibrary.org/obo/NCIT_C68616
+End Date,End date of the Investigation (YYYY-MM-DD).,http://purl.obolibrary.org/obo/NCIT_C68617
+Specimen,Type of biological material collected.,http://purl.obolibrary.org/obo/OBI_0100051
+Study Title,Human-readable name of the study.,http://purl.obolibrary.org/obo/NCIT_C207616
+Experiment Identifier,An identifier code that the researcher assigns to the experiment or study.,http://purl.allotrope.org/ontologies/result#AFR_0002009
+Strain,Strain of model organism.,http://www.ebi.ac.uk/efo/EFO_0005135
+Genotype,Whether the samples sustained genetic modifications (e.g. Knockout) or not (e.g. Wild Type).,http://www.ebi.ac.uk/efo/EFO_0000513
+Sample Type,General types of samples.,http://purl.obolibrary.org/obo/NCIT_C210102
+Sample Size,Number of subjects or samples.,http://purl.obolibrary.org/obo/NCIT_C53190
+Tissue Source,Tissues or anatomical sources/structures used.,http://purl.obolibrary.org/obo/NCIT_C50920
+Cell Line, A cultured cell population,http://purl.obolibrary.org/obo/CLO_0000031

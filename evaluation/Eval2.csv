@@ -1,0 +1,9 @@
+title,description,termURI
+Cleavage Agent Name,"Enzyme or chemical agent used to cleave molecules, such as proteins, during sample preparation.",http://purl.obolibrary.org/obo/MS_1001251
+Molecule,Type of molecule or molecular material present in the sample.,http://purl.obolibrary.org/obo/MS_1000882
+Sample State,"Physical state of the sample or material, such as solution or solid.",http://purl.obolibrary.org/obo/MS_1000051
+Staining,Staining procedure or method applied to the sample.,https://bioregistry.io/OBI:0002123
+Extraction Buffer,Buffer or chemical solution used during extraction of the target material.,https://bioregistry.io/CHEBI:39011
+pH,Measure of the acidity or alkalinity of the sample or experimental solution.,http://purl.obolibrary.org/obo/UO_0000196
+Sample Pre-Fractionation,Separation or fractionation procedure applied to the sample before subsequent analysis.,https://bioregistry.io/NCIT:C161770
+Protein Column,Chromatographic column used for protein separation or fractionation.,http://purl.obolibrary.org/obo/OBI_0000468

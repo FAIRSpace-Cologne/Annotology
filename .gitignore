@@ -1,0 +1,5 @@
+response.json
+.vscode/launch.json
+app/backend/.cache/
+app/backend/services/__pycache__/*
+.vscode/settings.json

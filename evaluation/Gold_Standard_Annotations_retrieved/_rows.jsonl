@@ -1,0 +1,14 @@
+{"title": "Assay Type", "description": "Type of assay performed.", "termURI": "http://purl.obolibrary.org/obo/NCIT_C189101"}
+{"title": "Name", "description": "Human-readable name", "termURI": "http://edamontology.org/data_2099"}
+{"title": "Affiliation", "description": "An associated entity", "termURI": "http://purl.obolibrary.org/obo/NCIT_C25412"}
+{"title": "Start Date", "description": "Start date of the Investigation (YYYY-MM-DD).", "termURI": "http://purl.obolibrary.org/obo/NCIT_C68616"}
+{"title": "End Date", "description": "End date of the Investigation (YYYY-MM-DD).", "termURI": "http://purl.obolibrary.org/obo/NCIT_C68617"}
+{"title": "Specimen", "description": "Type of biological material collected.", "termURI": "http://purl.obolibrary.org/obo/OBI_0100051"}
+{"title": "Study Title", "description": "Human-readable name of the study.", "termURI": "http://purl.obolibrary.org/obo/NCIT_C207616"}
+{"title": "Experiment Identifier", "description": "An identifier code that the researcher assigns to the experiment or study.", "termURI": "http://purl.allotrope.org/ontologies/result#AFR_0002009"}
+{"title": "Strain", "description": "Strain of model organism.", "termURI": "http://www.ebi.ac.uk/efo/EFO_0005135"}
+{"title": "Genotype", "description": "Whether the samples sustained genetic modifications (e.g. Knockout) or not (e.g. Wild Type).", "termURI": "http://www.ebi.ac.uk/efo/EFO_0000513"}
+{"title": "Sample Type", "description": "General types of samples.", "termURI": "http://purl.obolibrary.org/obo/NCIT_C210102"}
+{"title": "Sample Size", "description": "Number of subjects or samples.", "termURI": "http://purl.obolibrary.org/obo/NCIT_C53190"}
+{"title": "Tissue Source", "description": "Tissues or anatomical sources/structures used.", "termURI": "http://purl.obolibrary.org/obo/NCIT_C50920"}
+{"title": "Cell Line", "description": "A cultured cell population", "termURI": "http://purl.obolibrary.org/obo/CLO_0000031"}

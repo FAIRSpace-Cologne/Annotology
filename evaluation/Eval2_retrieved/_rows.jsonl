@@ -1,0 +1,8 @@
+{"title": "Cleavage Agent Name", "description": "Enzyme or chemical agent used to cleave molecules, such as proteins, during sample preparation.", "termURI": "http://purl.obolibrary.org/obo/MS_1001251"}
+{"title": "Molecule", "description": "Type of molecule or molecular material present in the sample.", "termURI": "http://purl.obolibrary.org/obo/MS_1000882"}
+{"title": "Sample State", "description": "Physical state of the sample or material, such as solution or solid.", "termURI": "http://purl.obolibrary.org/obo/MS_1000051"}
+{"title": "Staining", "description": "Staining procedure or method applied to the sample.", "termURI": "https://bioregistry.io/OBI:0002123"}
+{"title": "Extraction Buffer", "description": "Buffer or chemical solution used during extraction of the target material.", "termURI": "https://bioregistry.io/CHEBI:39011"}
+{"title": "pH", "description": "Measure of the acidity or alkalinity of the sample or experimental solution.", "termURI": "http://purl.obolibrary.org/obo/UO_0000196"}
+{"title": "Sample Pre-Fractionation", "description": "Separation or fractionation procedure applied to the sample before subsequent analysis.", "termURI": "https://bioregistry.io/NCIT:C161770"}
+{"title": "Protein Column", "description": "Chromatographic column used for protein separation or fractionation.", "termURI": "http://purl.obolibrary.org/obo/OBI_0000468"}

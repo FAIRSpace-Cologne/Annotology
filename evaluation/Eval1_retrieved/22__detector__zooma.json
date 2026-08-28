@@ -1,0 +1,1 @@
+{"mapper":"zooma","results":[{"error":"HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=30)","mappings":[],"term":"Detector","total":0}],"rows":25,"start":0,"success":true,"target_ontology":"all","terms_with_mappings":0,"total_terms":1,"warning":"Detector: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=30)"}

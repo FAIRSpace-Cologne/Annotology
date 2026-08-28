@@ -4,7 +4,6 @@ Annotology is a web-based tool that helps you attach standard **ontology terms**
 
 Annotology runs entirely on your own computer using Docker, and is accessed through a normal web browser. No data leaves your machine except the search terms themselves, which are sent to public ontology lookup services to find matching terms.
 
-**Repository:** https://github.com/zawyar/annotology
 
 ---
 
